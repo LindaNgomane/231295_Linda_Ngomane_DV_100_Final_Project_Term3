@@ -1,0 +1,142 @@
+nav a img {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+}
+
+.navbar{
+    background-color: black ; 
+}
+
+li .nav-link{
+    color: white;
+    font-size: 36px;
+    font-family: Aquawax Pro Trial;
+    margin-right: 39px;
+}
+
+ul{
+  display: flex;
+  justify-content: center;
+}
+
+video{
+    filter: brightness(0.4);
+}
+
+.carousel-caption h1{
+    font-size: 100px;
+    font-family: Aquawax Pro Trial;
+}
+
+.carousel-caption small{
+    font-size: 35px;
+    font-weight: 100;
+
+}
+
+.carousel-caption{
+    margin-bottom: 40px;
+}
+
+.carousel-indicators [data-bs-target].active {
+    width: 81px !important;
+    height: 20px !important;
+    border-radius: 20px;
+    background-color: #00FFC0 !important;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 81px !important;
+    height: 20px !important;
+    border-radius: 20px;
+    background-color: black!important;
+    opacity: 1 !important;
+}
+
+.carousel-caption h6{
+    margin-top: 250px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+video{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px ;
+    font-size: 70px;
+    font-family: Aquawax Pro Trial;
+}
+
+h2{
+    margin-top: 50px ;
+    font-size: 50px;
+    font-family: Aquawax Pro Trial;
+}
+
+h5{
+    font-family: Aquawax Pro Trial;
+    font-size: 40px;
+}
+
+.card{
+
+    border-radius: 29px 29px 29px 29px;
+    background: rgba(0, 0, 0, 0.84); 
+    border: none;
+}
+
+.card-title{
+    color: white;
+}
+
+.card-text{
+    color: white;
+    font-size: 14px;
+    flex-grow: 1;
+}
+
+.card-img-top{
+    border-radius: 29px 29px 0px 0px;
+}
+
+.btn{
+    border-radius: 25px;
+    background-color: #00FFC0;
+    font-size: 14px;
+    color: white;
+
+} 
+
+.btn{
+    border-radius: 25px;
+    background-color: #00FFC0;
+    font-size: 14px;
+    color: white;
+    font-family: Aquawax Pro Trial;
+
+} 
+
+.btn:hover{
+    background-color: white;
+    color: black    ;
+}
+
+.align{
+    margin-top: 50px;
+}
+
+img{
+    width: 216px;
+    height: 200px;
+}
+
+.card-body{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+
